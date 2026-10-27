@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.log
+test_image.png
+test_encoded.png
+encoded_*.png
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
